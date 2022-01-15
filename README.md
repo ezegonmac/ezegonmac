@@ -24,9 +24,9 @@
     </td>
     <td>Visual Studio Code</td>
     <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
 
@@ -35,6 +35,11 @@
       <img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
     </td>
     <td>HTML 5</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -42,6 +47,11 @@
       <img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
     </td>
     <td>CSS 3</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -49,6 +59,11 @@
         <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
     </td>
     <td>Sass</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
   </tr>
 
   <tr>
@@ -56,6 +71,11 @@
       <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     </td>
     <td>JavaScript</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -63,6 +83,11 @@
       <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
     </td>
     <td>React</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
   </tr>
 
   <tr>
@@ -70,6 +95,11 @@
       <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     </td>
     <td>Node.js</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
   </tr>
 
   <tr>
@@ -77,6 +107,11 @@
       <img alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
     </td>
     <td>SQL</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -84,6 +119,11 @@
       <img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
     </td>
     <td>MySQL</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -91,6 +131,11 @@
       <img alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     </td>
     <td>Java</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -98,6 +143,11 @@
       <img alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d563816ce9.png" />
     </td>
     <td>Spring</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -105,6 +155,11 @@
       <img alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" />
     </td>
     <td>C</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
   </tr>
 
   <tr>
@@ -112,6 +167,11 @@
       <img alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
     </td>
     <td>Eclipse</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -119,6 +179,11 @@
       <img alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
     </td>
     <td>Python</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
   </tr>
 
   <tr>
@@ -126,6 +191,11 @@
       <img alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
     </td>
     <td>Git</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 
   <tr>
@@ -133,6 +203,11 @@
     <img alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" />
     </td>
     <td>GitHub</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
   </tr>
 </table>
 
