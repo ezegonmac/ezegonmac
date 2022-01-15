@@ -17,7 +17,10 @@
 
 ### Languages and Tools:
 
-<div style="display: flex;">
+<table>
+<tr>
+
+<td>
 <table>
   <tr>
     <td>
@@ -115,7 +118,9 @@
     </td>
   </tr>
 </table>
+</td>
 
+<td>
 <table>
   <tr>
     <td>
@@ -213,7 +218,11 @@
     </td>
   </tr>
 </table>
-</div>
+</td>
+
+</tr>
+</table>
+
 
 <br />
 <br />
