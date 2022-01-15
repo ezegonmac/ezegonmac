@@ -105,14 +105,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  [![ezegonmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezegonmac)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegonmac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ezegonmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezegonmac&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegonmac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [codepen]: https://codepen.io/ezquielgon2
 [linkedin]: https://www.linkedin.com/in/ezequiel-gonzalez-macho-329583223
