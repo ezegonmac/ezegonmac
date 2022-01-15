@@ -17,88 +17,119 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; flex-direction: column;">
-  <div>
+<table>
+  <tr>
+    <td>
       <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      <span style="margin-left: 10px;">Visual Studio Code</span>
-  </div>
+    </td>
+    <td>Visual Studio Code</td>
+  </tr>
 
-  <div>
+  <tr>
+    <td>
       <img alt="HTML 5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-      <span style="margin-left: 10px;">HTML 5</span>
-  </div>
+    </td>
+    <td>HTML 5</td>
+  </tr>
 
-  <div>
-    <img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <span style="margin-left: 10px;">CSS 3</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="CSS 3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+    </td>
+    <td>CSS 3</td>
+  </tr>
 
-  <div>
-    <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-    <span style="margin-left: 10px;">Sass</span>
-  </div>
+  <tr>
+    <td>
+        <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+    </td>
+    <td>Sass</td>
+  </tr>
 
-  <div>
-    <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <span style="margin-left: 10px;">JavaScript</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+    </td>
+    <td>JavaScript</td>
+  </tr>
 
-  <div>
-    <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    <span style="margin-left: 10px;">React</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    </td>
+    <td>React</td>
+  </tr>
 
-  <div>
-    <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <span style="margin-left: 10px;">Node.js</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+    </td>
+    <td>Node.js</td>
+  </tr>
 
-  <div>
-    <img alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
-    <span style="margin-left: 10px;">SQL</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="SQL" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sql_icon_130152.png" />
+    </td>
+    <td>SQL</td>
+  </tr>
 
-  <div>
-    <img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-    <span style="margin-left: 10px;">MySQL</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
+    </td>
+    <td>MySQL</td>
+  </tr>
 
-  <div>
-    <img alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
-    <span style="margin-left: 10px;">Java</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
+    </td>
+    <td>Java</td>
+  </tr>
 
-  <div>
-    <img alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d563816ce9.png" />
-    <span style="margin-left: 10px;">Spring</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="Spring" width="26px" src="https://symbols.getvecta.com/stencil_96/69_spring-framework-icon.d563816ce9.png" />
+    </td>
+    <td>Spring</td>
+  </tr>
 
-  <div>
-    <img alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" />
-    <span style="margin-left: 10px;">C</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_plain_logo_icon_146610.png" />
+    </td>
+    <td>C</td>
+  </tr>
 
-  <div>
-    <img alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
-    <span style="margin-left: 10px;">Eclipse</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
+    </td>
+    <td>Eclipse</td>
+  </tr>
 
-  <div>
-    <img alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
-    <span style="margin-left: 10px;">Python</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+    </td>
+    <td>Python</td>
+  </tr>
 
-  <div>
-    <img alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
-    <span style="margin-left: 10px;">Git</span>
-  </div>
+  <tr>
+    <td>
+      <img alt="Git" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
+    </td>
+    <td>Git</td>
+  </tr>
 
-  <div>
+  <tr>
+    <td>
     <img alt="GitHub" width="26px" src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" />
-    <span style="margin-left: 10px;">GitHub</span>
-  </div>
-
-</div>
+    </td>
+    <td>GitHub</td>
+  </tr>
+</table>
 
 <br />
 <br />
