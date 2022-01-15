@@ -26,7 +26,7 @@
     <td>
       <img alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </td>
-    <td  width="145px">Visual Studio Code</td>
+    <td  width="145px">VSCode</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
