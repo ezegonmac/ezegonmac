@@ -23,6 +23,11 @@
       <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
     </td>
     <td>Visual Studio Code</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
   </tr>
 
   <tr>
