@@ -17,14 +17,10 @@
 
 ### Languages and Tools:
 
-<<<<<<< HEAD
 <table>
 <tr>
 
 <td>
-=======
-<div>
->>>>>>> ff66ddf888298d3f6a82e8bde5863a977a1436a7
 <table>
   <tr>
     <td>
