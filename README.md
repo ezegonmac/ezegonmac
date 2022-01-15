@@ -108,9 +108,9 @@
 
 ### GitHub Stats
 
-[![ezegonmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezegonmac&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ezegonmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezegonmac&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegonmac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegonmac&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [codepen]: https://codepen.io/ezquielgon2
 [linkedin]: https://www.linkedin.com/in/ezequiel-gonzalez-macho-329583223
