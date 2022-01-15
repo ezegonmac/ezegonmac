@@ -117,15 +117,11 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
-<<<<<<< HEAD
 </table>
 </td>
 
 <td>
 <table>
-=======
-
->>>>>>> ff66ddf888298d3f6a82e8bde5863a977a1436a7
   <tr>
     <td>
       <img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
