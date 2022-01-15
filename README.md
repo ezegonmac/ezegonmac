@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex;">
+<div>
 <table>
   <tr>
     <td>
@@ -114,9 +114,7 @@
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
-</table>
 
-<table>
   <tr>
     <td>
       <img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
