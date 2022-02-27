@@ -18,6 +18,7 @@
 ### Recent Projects:
 
 <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
+
 <a href="https://github.com/gii-is-DP1/dp1-2021-2022-l8-1">Seven Islands - Spring web game</a>
 
 ### Languages and Tools:
