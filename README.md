@@ -15,6 +15,10 @@
 
 <br />
 
+### Recent Projects:
+
+<a href="https://ezegonmac.github.io/weights_react/">Weights_React [Work in progress]</a>
+
 ### Languages and Tools:
 
 <table>
