@@ -17,9 +17,11 @@
 
 ### Recent Projects:
 
+<a href="https://ezegonmac.github.io/3d-curves/">Mandelbulb - [Playing with 3d point clouds in react]</a>
+
 <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
 
-<a href="https://github.com/gii-is-DP1/dp1-2021-2022-l8-1">Seven Islands - Spring web game</a>
+<a href="https://github.com/gii-is-DP1/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
 
 ### Languages and Tools:
 
