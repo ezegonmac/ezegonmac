@@ -17,6 +17,8 @@
 
 ### Recent Projects:
 
+<a href="https://github.com/ezegonmac/react-gallery/">React Gallery - [React app for practicing the fundamentals]</a>
+
 <a href="https://ezegonmac.github.io/3d-curves/">Mandelbulb - [Playing with 3d point clouds in react]</a>
 
 <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
