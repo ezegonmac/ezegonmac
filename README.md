@@ -25,6 +25,8 @@
 
 <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
 
+<a href="https://codepen.io/ezquielgon2/pen/zYZmvmZ">The Game Of Life - [Vanilla JS simulator]</a>
+
 <a href="https://github.com/gii-is-DP1/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
 
 ### Languages and Tools:
