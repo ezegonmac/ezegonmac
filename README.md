@@ -17,7 +17,7 @@
 
 ### Recent Projects:
 
-<a href="https://github.com/ezegonmac/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
+<a href="https://ezegonmac.github.io/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
 
 <a href="https://github.com/ezegonmac/react-gallery/">React Gallery - [React app for practicing the fundamentals]</a>
 
