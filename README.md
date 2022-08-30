@@ -16,6 +16,7 @@
 <br />
 
 ### Recent Projects:
+<a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
 
 <a href="https://ezegonmac.github.io/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
 
