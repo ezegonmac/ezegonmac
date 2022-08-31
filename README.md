@@ -28,7 +28,7 @@
 
 <a href="https://codepen.io/ezquielgon2/pen/zYZmvmZ">The Game Of Life - [Vanilla JS simulator]</a>
 
-<a href="https://github.com/gii-is-DP1/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
+<a href="https://github.com/ezegonmac/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
 
 ### Languages and Tools:
 
