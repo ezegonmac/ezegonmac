@@ -30,6 +30,8 @@
 
 <a href="https://github.com/ezegonmac/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
 
+<a href="https://github.com/ezegonmac/Proyecto-curso-IISSI2">Proyecto IISSI2 - Python Photo Social Network [First web app]</a>
+
 ### Languages and Tools:
 
 <table>
