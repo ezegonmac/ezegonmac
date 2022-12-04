@@ -18,6 +18,8 @@
 ### Recent Projects:
 <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
 
+<a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
+
 <a href="https://ezegonmac.github.io/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
 
 <a href="https://github.com/ezegonmac/react-gallery/">React Gallery - [React app for practicing the fundamentals]</a>
