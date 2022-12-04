@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer student in Seville, Spain
 
-- 📚 I’m currently studying my 3rd year in University Of Seville
+- 📚 I’m currently studying my last year in University Of Seville
 - ♥ I’m in love with coding and making websites
 - ☢ Learning REACT thoroughly
 - ⚡ Fun facts: I used to do speedcubing 🎲, gym 🦾 and play the guitar 🎸
