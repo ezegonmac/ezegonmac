@@ -18,47 +18,51 @@
 ### Recent Projects:
 <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
 
-<img alt="2022 Portfolio" width="220px" src="https://ezegonmac.vercel.app/projects/portfolio.png" />
+<img style="border: 2px solid white;" alt="2022 Portfolio" width="220px" src="./images/projects/portfolio.png" />
 
 
 <a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
 
+<img style="border: 2px solid white;" alt="DTechnology marketplace" width="220px" src="./images/projects/innoweb.png" />
+
 <a href="https://github.com/ezegonmac/DTechnology">Innoweb - [PC components Marketplace]</a>
+
+<img style="border: 2px solid white;" alt="DTechnology marketplace" width="220px" src="./images/projects/dtechnology.png" />
 
 
 <a href="https://ezegonmac.github.io/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
 
-<img alt="React Tik Tak Toe" width="220px" src="https://ezegonmac.vercel.app/projects/tiktaktoe.png" />
+<img style="border: 2px solid white;" alt="React Tik Tak Toe" width="220px" src="./images/projects/tiktaktoe.png" />
 
 
 <a href="https://github.com/ezegonmac/react-gallery/">React Gallery - [React app for practicing the fundamentals]</a>
 
-<img alt="React Gallery" width="220px" src="https://ezegonmac.vercel.app/projects/reactgallery.png" />
+<img style="border: 2px solid white;" alt="React Gallery" width="220px" src="./images/projects/reactgallery.png" />
 
 
 <a href="https://ezegonmac.github.io/3d-curves/">Mandelbulb - [Playing with 3d point clouds in react]</a>
 
-<img alt="Mandelbulb" width="220px" src="https://ezegonmac.vercel.app/projects/mandelbulb.png" />
+<img style="border: 2px solid white;" alt="Mandelbulb" width="220px" src="./images/projects/mandelbulb.png" />
 
 
 <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
 
-<img alt="Weights" width="220px" src="https://ezegonmac.vercel.app/projects/weights.png" />
+<img style="border: 2px solid white;" alt="Weights" width="220px" src="./images/projects/weights.png" />
 
 
 <a href="https://codepen.io/ezquielgon2/pen/zYZmvmZ">The Game Of Life - [Vanilla JS simulator]</a>
 
-<img alt="The Game Of Life" width="220px" src="https://ezegonmac.vercel.app/projects/gameoflife.png" />
+<img style="border: 2px solid white;" alt="The Game Of Life" width="220px" src="./images/projects/gameoflife.png" />
 
 
 <a href="https://github.com/ezegonmac/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
 
-<img alt="Seven Islands" width="220px" src="https://ezegonmac.vercel.app/projects/sevenislands.jpg" />
+<img style="border: 2px solid white;" alt="Seven Islands" width="220px" src="./images/projects/sevenislands.jpg" />
 
 
 <a href="https://github.com/ezegonmac/Proyecto-curso-IISSI2">Proyecto IISSI2 - Python Photo Social Network [First web app]</a>
 
-<img alt="Seven Islands" width="220px" src="https://ezegonmac.vercel.app/projects/iissi2.png" />
+<img style="border: 2px solid white;" alt="Seven Islands" width="220px" src="./images/projects/iissi2.png" />
 
 
 ### Languages and Tools:
