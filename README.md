@@ -24,46 +24,46 @@
 <table>
   <tr>
     <td>
-      <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
+      <img alt="2022 Portfolio" width="220px" src="./images/projects/portfolio.png" />
     </td>
     <td>
-      <img alt="2022 Portfolio" width="220px" src="./images/projects/portfolio.png" />
+      <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
     </td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
-    </td>
     <td>
       <img alt="DTechnology marketplace" width="220px" src="./images/projects/innoweb.png" />
     </td>
+    <td>
+      <a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
+    </td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://github.com/ezegonmac/DTechnology">DTechnology - [PC components Marketplace]</a>
-    </td>
     <td>
       <img alt="DTechnology marketplace" width="220px" src="./images/projects/dtechnology.png" />
     </td>
+    <td>
+      <a href="https://github.com/ezegonmac/DTechnology">DTechnology - [PC components Marketplace]</a>
+    </td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://ezegonmac.github.io/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
-    </td>
     <td>
       <img alt="React Tik Tak Toe" width="220px" src="./images/projects/tiktaktoe.png" />
     </td>
+    <td>
+      <a href="https://ezegonmac.github.io/React-TikTakToe">React Tik Tak Toe - [The traditional game made reactive]</a>
+    </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/ezegonmac/react-gallery/">React Gallery - [React app for practicing the fundamentals]</a>
+      <img alt="React Gallery" width="220px" src="./images/projects/reactgallery.png" />
     </td>
     <td>
-      <img alt="React Gallery" width="220px" src="./images/projects/reactgallery.png" />
+      <a href="https://github.com/ezegonmac/react-gallery/">React Gallery - [React app for practicing the fundamentals]</a>
     </td>
   </tr>
 
@@ -76,46 +76,46 @@ new column
 <table> -->
   <tr>
     <td>
-      <a href="https://ezegonmac.github.io/3d-curves/">Mandelbulb - [Playing with 3d point clouds in react]</a>
+      <img alt="Mandelbulb" width="220px" src="./images/projects/mandelbulb.png" />
     </td>
     <td>
-      <img alt="Mandelbulb" width="220px" src="./images/projects/mandelbulb.png" />
+      <a href="https://ezegonmac.github.io/3d-curves/">Mandelbulb - [Playing with 3d point clouds in react]</a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
+      <img alt="Weights" width="220px" src="./images/projects/weights.png" />
     </td>
     <td>
-      <img alt="Weights" width="220px" src="./images/projects/weights.png" />
+      <a href="https://ezegonmac.github.io/weights_react/">Weights - [Work in progress React app]</a>
     </td>
   </tr>
   
   <tr>
     <td>
-      <a href="https://codepen.io/ezquielgon2/pen/zYZmvmZ">The Game Of Life - [Vanilla JS simulator]</a>
+      <img alt="The Game Of Life" width="220px" src="./images/projects/gameoflife.png" />
     </td>
     <td>
-      <img alt="The Game Of Life" width="220px" src="./images/projects/gameoflife.png" />
+      <a href="https://codepen.io/ezquielgon2/pen/zYZmvmZ">The Game Of Life - [Vanilla JS simulator]</a>
     </td>
   </tr>
 
   <tr>
-    <td>
-      <a href="https://github.com/ezegonmac/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
-    </td>
     <td>
       <img alt="Seven Islands" width="220px" src="./images/projects/sevenislands.jpg" />
     </td>
+    <td>
+      <a href="https://github.com/ezegonmac/dp1-2021-2022-l8-1">Seven Islands - Spring web game [First real group project]</a>
+    </td>
   </tr>
 
   <tr>
     <td>
-      <a href="https://github.com/ezegonmac/Proyecto-curso-IISSI2">Proyecto IISSI2 - Python Photo Social Network [First web app]</a>
+      <img alt="Seven Islands" width="220px" src="./images/projects/iissi2.png" />
     </td>
     <td>
-      <img alt="Seven Islands" width="220px" src="./images/projects/iissi2.png" />
+      <a href="https://github.com/ezegonmac/Proyecto-curso-IISSI2">Proyecto IISSI2 - Python Photo Social Network [First web app]</a>
     </td>
   </tr>
 
