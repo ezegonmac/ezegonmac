@@ -39,6 +39,15 @@
       <a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
     </td>
   </tr>
+  
+  <tr>
+    <td>
+      <img alt="CubeMarket comparator" width="220px" src="./images/projects/cubemarket.png" />
+    </td>
+    <td>
+      <a href="https://github.com/ezegonmac/CubeMarket">CubeMarket - [Rubiks Cube comparator]</a>
+    </td>
+  </tr>
 
   <tr>
     <td>
