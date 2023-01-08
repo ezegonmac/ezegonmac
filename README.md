@@ -30,15 +30,6 @@
       <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
     </td>
   </tr>
-
-  <tr>
-    <td>
-      <img alt="DTechnology marketplace" width="220px" src="./images/projects/innoweb.png" />
-    </td>
-    <td>
-      <a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
-    </td>
-  </tr>
   
   <tr>
     <td>
@@ -46,6 +37,15 @@
     </td>
     <td>
       <a href="https://github.com/ezegonmac/CubeMarket">CubeMarket - [Rubiks Cube comparator]</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img alt="Innoweb" width="220px" src="./images/projects/innoweb.png" />
+    </td>
+    <td>
+      <a href="https://github.com/innosoft-innoweb/innosoft-innoweb-1">Innoweb - [University days events web]</a>
     </td>
   </tr>
 
