@@ -33,6 +33,15 @@
   
   <tr>
     <td>
+      <img alt="SARANDONGA Landing Page" width="220px" src="./images/projects/sarandonga.png" />
+    </td>
+    <td>
+      <a href="https://github.com/ezegonmac/SarandONGa-LP">SARANDONGA - [Next Team Landing Page]</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
       <img alt="CubeMarket comparator" width="220px" src="./images/projects/cubemarket.png" />
     </td>
     <td>
