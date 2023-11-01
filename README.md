@@ -1,3 +1,9 @@
+[codepen]: https://codepen.io/ezquielgon2
+[linkedin]: https://www.linkedin.com/in/ezequiel-gonzalez-macho-329583223
+[udemy]: https://www.udemy.com/user/ezequiel-gonzalez-macho/
+[gmail]: ezegonmac@gmail.com
+[stackoverflow]: https://stackoverflow.com/users/11909334/egm2
+
 ### Hi there, I'm Ezequiel - aka @ezegonmac 👋 
 
 ## I'm a Software Engineer stablished in Seville, Spain
@@ -10,6 +16,7 @@
 ### You can find me in:
 
 [<img align="left" alt="ezegonmac | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ezegonmac | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="ezegonmac | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />][codepen]
 [<img align="left" alt="ezegonmac | Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/udemy.svg" />][udemy]
 
@@ -366,8 +373,3 @@ new column
 [![ezegonmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezegonmac&count_private=true&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezegonmac&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-
-[codepen]: https://codepen.io/ezquielgon2
-[linkedin]: https://www.linkedin.com/in/ezequiel-gonzalez-macho-329583223
-[udemy]: https://www.udemy.com/user/ezequiel-gonzalez-macho/
-[gmail]: ezegonmac@gmail.com
