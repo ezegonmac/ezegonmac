@@ -3,8 +3,8 @@
 ## I'm a Software Engineer stablished in Seville, Spain
 
 - 📚 Recent graduate in software engeneering currently in job hunting
-- ♥  In love with code and creating interactive websites
-- ☢  Learning REACT thoroughly
+- ❤️ In love with code and creating interactive websites
+-  ☢  Learning REACT thoroughly
 - ⚡ Fun facts: I used to do speedcubing 🎲, gym 🦾 and play the guitar 🎸
 
 ### You can find me in:
