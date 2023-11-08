@@ -34,10 +34,19 @@
       <img alt="2022 Portfolio" width="220px" src="./images/projects/portfolio.png" />
     </td>
     <td>
-      <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next js minimalistic portfolio]</a>
+      <a href="https://ezegonmac.vercel.app/">2022 Portfolio - [Next.js minimalistic portfolio]</a>
     </td>
   </tr>
   
+  <tr>
+    <td>
+      <img alt="MA Web - Mayores En Acción" width="220px" src="./images/projects/ma.png" />
+    </td>
+    <td>
+      <a href="https://mayoresenaccion.org">MA Web - [Next.js and MySQL Landing page and administrative web app]</a>
+    </td>
+  </tr>
+
   <tr>
     <td>
       <img alt="SARANDONGA Landing Page" width="220px" src="./images/projects/sarandonga.png" />
@@ -151,24 +160,13 @@ new column
 </td> -->
 
 
-### Languages and Tools:
+### Languages:
 
 <table>
 <tr>
 
 <td>
 <table>
-  <tr>
-    <td>
-      <img alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    </td>
-    <td  width="145px">VSCode</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
 
   <tr>
     <td>
@@ -196,18 +194,6 @@ new column
 
   <tr>
     <td>
-        <img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-    </td>
-    <td>Sass</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
       <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     </td>
     <td>JavaScript</td>
@@ -215,30 +201,6 @@ new column
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-    </td>
-    <td>React</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    </td>
-    <td>Node.js</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
 
@@ -260,35 +222,12 @@ new column
 
 <td>
 <table>
-  <tr>
-    <td>
-      <img alt="MySQL" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
-    </td>
-    <td width="145px">MySQL</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
 
   <tr>
     <td>
       <img alt="Java" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" />
     </td>
     <td>Java</td>
-    <td>
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <img alt="Spring" width="26px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
-    </td>
-    <td>Spring</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
@@ -310,6 +249,58 @@ new column
 
   <tr>
     <td>
+      <img alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+    </td>
+    <td>Python</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="R" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+    </td>
+    <td>R</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+</table>
+</td>
+
+</tr>
+</table>
+
+
+<!-- ########################################################## -->
+
+### Tools:
+
+<table>
+<tr>
+
+<td>
+<table>
+  <tr>
+    <td>
+      <img alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+    </td>
+    <td  width="145px">VSCode</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
       <img alt="Eclipse" width="26px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" />
     </td>
     <td>Eclipse</td>
@@ -322,15 +313,35 @@ new column
 
   <tr>
     <td>
-      <img alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+      <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
     </td>
-    <td>Python</td>
+    <td>Node.js</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    </td>
+    <td>Linux</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+</table>
+</td>
+
+<!-- new column -->
+
+<td>
+<table>
 
   <tr>
     <td>
@@ -355,10 +366,203 @@ new column
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
     </td>
   </tr>
+
+  <tr>
+    <td>
+    <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+    </td>
+    <td>Docker</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+  
 </table>
 </td>
 
 </tr>
+</table>
+
+<!-- ########################################################## -->
+
+### Web Frameworks and Libraries:
+
+<table>
+<tr>
+
+<td>
+<table>
+
+  <tr>
+    <td>
+      <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    </td>
+    <td>React</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="Next" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    </td>
+    <td>Next</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <img alt="Spring" width="26px" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" />
+    </td>
+    <td>Spring</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
+</table>
+</td>
+
+<!-- new column -->
+
+<td>
+<table>
+
+  <tr>
+    <td>
+      <img alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+    </td>
+    <td>Django</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    </td>
+    <td>Booststrap</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
+</table>
+</td>
+
+</tr>
+</table>
+
+<!-- ########################################################## -->
+
+### React:
+
+<table>
+<tr>
+
+<td>
+<table>
+
+  <tr>
+    <td>
+      <img alt="Styled Components" width="26px" src="./images/icons/styled-components.png" />
+    </td>
+    <td>Styled Components</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    </td>
+    <td>Redux</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    </td>
+    <td>MaterialUI</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+
+</table>
+</td>
+
+<!-- new column -->
+
+<td>
+<table>
+
+  <tr>
+    <td>
+      <img alt="React Router" width="26px" src="./images/icons/react-router.webp" />
+    </td>
+    <td>React Router</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="Framer Motion" width="26px" src="./images/icons/framer-motion.webp" />
+    </td>
+    <td>Framer Motion</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img alt="TailwindCSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    </td>
+    <td>TailwindCSS</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+</table>
+</td>
+
 </table>
 
 
