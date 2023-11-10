@@ -261,7 +261,7 @@ new column
 
   <tr>
     <td>
-      <img alt="R" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
+      <img alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
     </td>
     <td>R</td>
     <td>
@@ -372,6 +372,18 @@ new column
     <img alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
     </td>
     <td>Docker</td>
+    <td>
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
+      <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828961.png">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+    <img alt="Selenium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+    </td>
+    <td>Selenium</td>
     <td>
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
       <img width="15px" src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png">
