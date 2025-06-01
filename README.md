@@ -1,14 +1,13 @@
 [codepen]: https://codepen.io/ezquielgon2
 [linkedin]: https://www.linkedin.com/in/ezequiel-gonzalez-macho-329583223
 [udemy]: https://www.udemy.com/user/ezequiel-gonzalez-macho/
-[gmail]: ezegonmac@gmail.com
 [stackoverflow]: https://stackoverflow.com/users/11909334/egm2
 
 ### Hi there, I'm Ezequiel - aka @ezegonmac 👋 
 
 ## I'm a Software Engineer stablished in Seville, Spain
 
-- 📚 Recent graduate in software engeneering currently in job hunting
+- 📚 Currently working at Appian Corporation as Solution Engineer
 - ❤️ In love with code and creating interactive websites
 -  ☢  Learning REACT thoroughly
 - ⚡ Fun facts: I used to do speedcubing 🎲, gym 🦾 and play the guitar 🎸
